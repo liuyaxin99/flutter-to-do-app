@@ -1,5 +1,4 @@
 ![Screenshot_1683652181](https://github.com/liuyaxin99/flutter-to-do-with-Auth-Firestore/assets/51477400/ae4dc42f-0b82-48b3-9fa5-e4b6fd697921)
-![Screenshot_1683652185](https://github.com/liuyaxin99/flutter-to-do-with-Auth-Firestore/assets/51477400/0186afd7-4e06-4c25-8f45-1732de9093e1)
 ![Screenshot_1683652189](https://github.com/liuyaxin99/flutter-to-do-with-Auth-Firestore/assets/51477400/65019097-0e26-48e2-8cc9-8a914f7246a5)
 ![Screenshot_1683652209](https://github.com/liuyaxin99/flutter-to-do-with-Auth-Firestore/assets/51477400/9debb1bf-437d-4547-8341-cb92cdf94f84)
 ![Screenshot_1683652225](https://github.com/liuyaxin99/flutter-to-do-with-Auth-Firestore/assets/51477400/0b5691c9-1e98-4e9b-a912-30639ef53f44)
